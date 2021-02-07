@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-__author__ = 'Ae0lus'
+__author__ = 'Ae0lu5'
 
 # !/usr/bin/env python
 # coding:utf-8
@@ -27,9 +27,9 @@ class BurpExtender(IBurpExtender, IHttpListener, IContextMenuFactory, IIntruderP
 
         print "[+] #####################################"
         print "[+]    fakeIp for burp V1.0"
-        print "[+]    anthor: CoolCat"
-        print "[+]    email: CoolCat@gzsec.org"
-        print "[+]    gayhub:https://github.com/TheKingOfDuck"
+        print "[+]    anthor: Ae0lu5"
+        print "[+]    email: administrator@aeolus.ccaeo.com"
+        print "[+]    gayhub:https://github.com/AeolusTF"
         print "[+] #####################################"
 
         print "\n[-]fakeIp loading..."
